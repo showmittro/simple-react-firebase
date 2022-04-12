@@ -1,6 +1,6 @@
 # Project Name: Simple React Firebase
 
-Live site link: 
+Live site link: https://simple-react-firebase.netlify.app/ 
 
 
 # steps (11) to use Firebase:-
